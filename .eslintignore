@@ -1,0 +1,16 @@
+.idea/
+**/.DS_Store
+
+artifacts/
+cache/
+@types/generated/
+
+node_modules/
+yarn-error.log
+
+coverage/
+coverage.json
+
+blacklist.*.json
+
+LICENSE
